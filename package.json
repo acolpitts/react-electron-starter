@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "homepage": "./",
   "main": "public/electron.js",
+  "license": "MIT",
   "build": {
     "appId": "com.example.electron-react",
     "files": [
